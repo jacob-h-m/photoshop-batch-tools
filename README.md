@@ -58,18 +58,6 @@ Defaults
 - Per file errors are skipped and printed to the JavaScript console with `$.writeln`
 - The script alerts on major errors like missing input or output folders
 
-## Project structure
-```
-photoshop-batch-tools/
-  README.md
-  LICENSE
-  CHANGELOG.md
-  .gitignore
-  scripts/
-    Batch Smart Objecter Replacer.jsx
-    Whitespace Trimmer.jsx
-```
-
 ## License
 MIT License. See `LICENSE` for details.
 
